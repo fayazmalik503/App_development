@@ -1,0 +1,24 @@
+# Notes
+''''
+
+Kiwi Framework is used for creating app, using kiwi you can
+create app for windows, linux and Apple.
+such as java flutter is important to know for buildinng java apps.
+same as this for python you only way has Kivy framework to.
+
+In this I created App using Kiwi framework however key can not be installed directly from pycharm so need to look for it
+The below method worked for me.
+
+The difficult part of this project was installing kiwi and you will have issue that will be this:
+Modules You need to install
+
+1. "I tried to install kivy but failed many times then I found this link and run in command line which later worked for me"
+command for installation:
+- pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/
+= copy this command and pest on command prompt and hit enter then your kivy install successfully in python any version.
+2. then I installed KivyMD 0.104.2
+
+
+Change the file from .py to .apk to use it in mobile phone
+
+''''
