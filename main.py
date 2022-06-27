@@ -1,2 +1,2 @@
-from kivymd.app import MDApp
-from kivymd.uix.label import MDLabel
+''''Mobile Application''''
+Email: fayaz_malik@ymail.com
