@@ -21,4 +21,22 @@ command for installation:
 
 Change the file from .py to .apk to use it in mobile phone
 
+
+Second part of this is to change .py file into .apk file
+You have three to chane it.
+1. Mac System   --> use buildozer
+2. Linux System
+3. Windows System --> Google Collab --> create virtual environment linux system's with which we can do same work in windows
+
+Open Google Collab
+
+!pip install buildozer
+!pip install cython==0.29.19
+
+Link
+https://colab.research.google.com/gist/kaustubhgupta/0d06ea84760f65888a2488bac9922c25/kivyapp-to-apk.ipynb
+
+
 ''''
+
+In The Second Part I have created a Screen Recorder
